@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend-oriented MERN stack developer with hands-on experience in Node.js, Express, and database integration<br>Primary contribution in MERN projects focused on server-side development, including API design and authentication flows<br>Completed 4 of 7 modules of the Google Cybersecurity Professional Certificate (Coursera)<br>Possess foundational knowledge of reconnaissance and enumeration<br>Apply security-aware practices in backend development<br>Cybersecurity major, with a long-term transition planned into security-focused roles
+Backend-oriented MERN stack developer with hands-on experience in Node.js, Express, and database integration<br>Primary contribution in MERN projects focused on server-side development, including API design and authentication flows<br>Possess foundational knowledge of reconnaissance and enumeration<br>Apply security-aware practices in backend development<br>Cybersecurity major, with a long-term transition planned into security-focused roles
 
 
 ## 🌐 Socials:
