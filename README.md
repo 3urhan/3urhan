@@ -1,5 +1,17 @@
 # 💫 About Me:
-Backend-oriented MERN stack developer with hands-on experience in Node.js, Express, and database integration<br>Primary contribution in MERN projects focused on server-side development, including API design and authentication flows<br>Possess foundational knowledge of reconnaissance and enumeration<br>Apply security-aware practices in backend development<br>Cybersecurity major, with a long-term transition planned into security-focused roles
+Versatile Developer with hands-on experience in full-stack web architecture and database design. I leverage a dual-stack approach, utilizing the MERN ecosystem for real-time applications and Laravel/PHP/SQL for enterprise-grade backend infrastructure.
+
+Core Technical Competencies:
+
+Frontend: React.js, Next.js, Tailwind CSS, Vite.
+
+Backend: Node.js, Express, PHP, Laravel.
+
+Databases: MongoDB (NoSQL), MySQL/PostgreSQL (SQL).
+
+Security & Infrastructure: Secure Authentication, API Security, Reconnaissance & Enumeration principles, and Linux environments.
+
+I am deeply committed to the intersection of software engineering and cybersecurity. My development process emphasizes proactive security measures, from initial database schema design to the final API deployment, ensuring that applications are not only feature-rich but inherently secure.
 
 
 ## 🌐 Socials:
